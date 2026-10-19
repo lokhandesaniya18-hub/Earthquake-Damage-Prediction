@@ -87,7 +87,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 - Independent-data validation is needed before applying the model to new regions.
 - Predictions should not replace professional structural inspections.
 
-## Data Source & Acknowledgement
+
 
 ## **Data Source & Acknowledgement**
 
