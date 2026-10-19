@@ -7,7 +7,7 @@ The tuned Decision Tree model achieved an **accuracy of 70.46%**, a **Macro F1 S
 
 ## Dataset
 
-- **Source:**  https://www.drivendata.org/competitions/57/nepal-earthquake/
+- **Source:**  https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1015-EquakeDamagePred.zip
 - **Size:** 260,601 buildings
 - **Target:** `damage_grade` — 1 (Low), 2 (Medium), 3 (Severe)
 
