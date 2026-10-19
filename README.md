@@ -7,7 +7,7 @@ The tuned Decision Tree model achieved an **accuracy of 70.46%**, a **Macro F1 S
 
 ## Dataset
 
-- **Source:**  DrivenData — Richter's Predictor: Modeling Earthquake Damage
+- **Source:**  https://www.drivendata.org/competitions/57/nepal-earthquake/
 - **Size:** 260,601 buildings
 - **Target:** `damage_grade` — 1 (Low), 2 (Medium), 3 (Severe)
 
